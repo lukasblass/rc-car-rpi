@@ -1,0 +1,7 @@
+- git:
+    uri: 'https://github.com/Slamtec/rplidar_ros.git'
+    name: rplidar_ros
+- git:
+    uri: 'https://github.com/naoki-mizuno/ds4_driver.git'
+    name: ds4_driver
+    
